@@ -4,8 +4,6 @@
 """
 Python obfuscate to to mask code.
 Afer masking you have to write a short de-mask and 'eval' script to run.
-For some higher grade you can compile your masked code to python bytecode with:
-'python -OO -m py_compile <your_script.py>' after that just rename the '.pyc' to '.py'
 """
 
 
